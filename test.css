@@ -1,0 +1,78 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #4c6ca0;
+}
+
+.container {
+  border: 1px solid grey;
+  background-color: white;
+  max-width: 310px;
+  margin: 30px auto;
+  padding: 28px;
+  margin-top: 50px;
+  border-radius: 5px;
+  padding-bottom: 15px;
+  margin-bottom: 0;
+}
+.signup {
+  margin-bottom: 20px;
+}
+.signup h3 {
+  font-size: 14px;
+  margin-top: 10px;
+}
+.form input {
+  padding-bottom: 10px;
+  width: 100%;
+}
+.field {
+  padding-bottom: 10px;
+}
+.btn {
+  padding: 5px;
+  padding-top: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  background-color: #49c1a2;
+  color: #fff;
+}
+.field input {
+  border: 2px solid #000;
+  border-radius: 3px;
+}
+.tc {
+  display: flex;
+  font-size: 13px;
+  padding-top: 5px;
+}
+.tc a {
+  text-decoration: none;
+  color: blue;
+}
+.tc a:hover {
+  color: #49c142;
+  font-size: 15px;
+}
+.click {
+  font-size: 13px;
+}
+.lastmsg {
+  width: 100%;
+  padding-top: 10px;
+}
+.have {
+  text-align: center;
+  color: #fff;
+  padding-top: none;
+}
+.have a {
+  text-decoration: none;
+  color: blue;
+}
+.allhave {
+  padding-top: 0px;
+}
